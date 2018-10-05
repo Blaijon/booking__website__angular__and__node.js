@@ -1,6 +1,6 @@
 ﻿# (MEAN STACK) Full Stack Book Website
 
-Click Here to Visit my Website: [http://www.elixirburger.com/](http://www.elixirburger.com/)
+Click Here to Visit my Website: [https://rentalap.herokuapp.com/](https://rentalap.herokuapp.com/)
 
 ## Project Description
 
@@ -9,7 +9,7 @@ This Project was designed for a local American Restarunt that needed a landing p
 ![An image of the app](http://blaijonheads.com/images/macbook.jpg)
 
 ## Technologies
-*Angular 4+
+* Angular 4+
 * Node
 * Express
 * MonogoDB
