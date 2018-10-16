@@ -33,8 +33,8 @@
                    formControlName="password">
           </div>
           <button [disabled]="!loginForm.valid" type="submit" class="btn btn-bwm">Submit</button>
-          <p>Test Users <p>Email: test@gmail.com <p>Password: testtest</p></p> </p>
         </form>
+        <div>Test Users <div>Email: test@gmail.com <div>Password: testtest</div></div> </div>
         <div *ngIf="errors.length > 0" class="alert alert-danger">
           <p *ngFor="let error of errors">
             {{error.detail}}
