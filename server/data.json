@@ -16,7 +16,7 @@
       "street": "Time Square",
       "category": "apartment",
       "image": "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
-      "bedrooms": 1
+      "bedrooms": 1,
       "shared": true,
       "description": "Very nice apartment in center of the city.",
       "dailyRate": 11
